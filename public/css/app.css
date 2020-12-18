@@ -15982,3 +15982,26 @@ header nav .centre button {
   border: none;
   border-radius: 3px;
 }
+
+.section1 .texte {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 100px 300px;
+}
+
+.section1 .texte .textleft {
+  padding-right: 100px;
+}
+
+.section1 .texte .textleft h1 {
+  font-size: 30px;
+}
+
+.section1 .texte .textleft p {
+  font-size: 20px;
+}
+
+.section1 .texte .textright {
+  font-size: 20px;
+}
